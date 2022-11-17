@@ -28,6 +28,6 @@ int main()
 				cout << table[i][j];
 			cout << endl;
 		}
-		cout << endl;
+		cout << endl;//This is end  the code
 	}
 }
